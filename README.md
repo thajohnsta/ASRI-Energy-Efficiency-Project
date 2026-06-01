@@ -1,0 +1,1 @@
+Built a Python data analysis project using DOE residential energy data to study relationships between household characteristics, climate region, and electricity usage. Applied regression modeling and data visualization with pandas, statsmodels, seaborn, and matplotlib.
